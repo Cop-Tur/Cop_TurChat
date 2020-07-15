@@ -4,11 +4,12 @@
 ## 开发平台：
          Android Studio 3.5.3
          Android 9.0
-         
+
 ## 使用方法：
          1、Android Studio，File -> New -> Import Project 选择该项目目录文件。
          2、修改activity中Welcome.java第34行的appkey。如 Bmob.initialize(this,"Your Key"); 将Your Key改为你的Bmob Key即可运行。
-          
+         运行截图见"运行截图"目录
+         
 ## 功能介绍
          该综合软件包含基础版块、操作功能、业务逻辑三方面的功能需求：
 #### 基础板块
@@ -18,6 +19,7 @@
          该软件将包含注册、登录、退出、注销、发表/查看话题、评论话题、发送/接收私信、阅读私信、添加/删除好友以及查看用户资料等功能。
 
 #### 业务逻辑
+![图片](https://github.com/Cop-Tur/Cop_TurChat/blob/master/%E8%BF%90%E8%A1%8C%E5%B1%95%E7%A4%BA/fram.png)
 该大案例包括如下业务逻辑：
 * 要使用该产品的功能，需要经过有效的注册；
 * 该产品的所有用户都可以发表话题，并且发表的话题能够让本产品所有用户看见时用户还可以回复话题；
