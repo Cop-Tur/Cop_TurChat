@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#B6B6B6</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="backg">#EEECEC</color>
+    <color name="bjys">#ffffff</color>
+
+    <color name="editcolor">#ff6d00</color>
+    <color name="transparent">#000000</color>
+
+    <color name="color_app_themes">#0400f1</color>
+
+    <color name="color_e5">#e5e5e5</color>
+
+    <color name="color_77">#ff8077</color>
+
+    <color name="green_normal">#37C000</color>
+
+    <color name="dl">#000</color>
+
+
+    <color name="statusbarcolor">#000</color>
+
+    <color name="color1">#7986CB</color>
+    <color name="color2">#FFFFFF</color>
+    <color name="color3">#1F304C</color>
+    <color name="color4">#20487D</color>
+    <color name="color5">#474747</color>
+    <color name="fff">#455A64</color>
+
+    <color name="colorHint">#ffffff</color>
+
+    <color name="colorbk">#f2f2f2</color>
+
+    <color name="colorBackground">#f1f0e7</color>
+
+    <color name="colorBase1">#bacd77</color>
+
+    <color name="colorBase2">#8a000000</color>
+
+    <color name="colorBase3">#292929</color>
+
+    <color name="colorBase4">#333333</color>
+
+    <color name="black">#000000</color>
+
+    <color name="blue">#0000ff</color>
+
+    <color name="trans">#00ffffff</color>
+
+    <color name="trans1">#33ffffff</color>
+
+    <color name="trans2">#332b2b2a</color>
+
+    <color name="trans3">#77ffffff</color>
+    <color name="red">#ff0400</color>
+    <color name="orange">#fdcd09</color>
+    <color name="round_outside_color">#FFFEFF</color>
+    <color name="round_inside_color">#FFFEFF</color>
+</resources>
