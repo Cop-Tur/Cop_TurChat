@@ -31,7 +31,7 @@ public class Welcome extends AppCompatActivity {
         Timer timer = new Timer();
         timer.schedule(timerTask,3000);
 
-        Bmob.initialize(this,"Your Ksy");
+        Bmob.initialize(this,"Your Key");
 
     }
     TimerTask timerTask = new TimerTask() {
